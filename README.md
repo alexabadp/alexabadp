@@ -1,6 +1,5 @@
 ### Hola 👋, Mi nombre es Alex Abad
 #### Soy un entusiasta de la programación.
-![Soy un entusiasta de la programación.]
 
 Estudiante de Ingeniería de Software con capacidad de análisis y conocimientos en tecnología de desarrollo de sistemas como SQL Server, MySQL Server, JavaScript, HTML, CSS. Así mismo diferenciado como una persona amable, responsable, con muchas ganas de aprender mayores tecnologías que aporten experiencia y crecimiento profesional.
 
