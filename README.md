@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <h1 align="center">Hi 👋, soy Alex</h1>
+</div>
+
 ### Hola 👋, Mi nombre es Alex Abad
 #### Soy un entusiasta de la programación.
 
