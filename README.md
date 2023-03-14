@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/alexabadp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>
-  <a>
+  <a href="#">
   <img src="https://img.shields.io/github/followers/alexabadp?logo=github&style=for-the-badge" alt="github badge"/>
     </a>
 </div>
