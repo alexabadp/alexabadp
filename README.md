@@ -13,14 +13,31 @@
     </a>
 </div>
 
-### Hola 👋, Mi nombre es Alex Abad
-#### Soy un entusiasta de la programación.
+📜 Sobre mi:
+ - 🌎 Soy de Lima - Perú
+ - 📖 Actualemente estoy aprediendo a desarrollar aplicaciones Full Stack utilizando como tecnologia principal React.js
+ - 📲 Como me puedes contactar aalex.abad96@gmail.com o +51 985658693
+ - 🌐 Mi portfolio:
 
-Estudiante de Ingeniería de Software con capacidad de análisis y conocimientos en tecnología de desarrollo de sistemas como SQL Server, MySQL Server, JavaScript, HTML, CSS. Así mismo diferenciado como una persona amable, responsable, con muchas ganas de aprender mayores tecnologías que aporten experiencia y crecimiento profesional.
+<div align="left">
+  <h3> ⚒️ Lenguajes y Herramientas </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+    
+  </div>
+</div>
 
-Habilidades: JS / HTML / CSS / SQL Server / MySQL
+### 📊 Mis estadisticas:
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexabadp&theme=react&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 Estoy trabajando en proyectos personales que demuestren mis capacidades 
+![alexabadp GitHub stats](https://github-readme-stats.vercel.app/api?username=alexabadp&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabadp&theme=tokyonight)](https://github.com/alexabadp/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexabadp)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexabadp/)  
