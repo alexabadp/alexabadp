@@ -75,9 +75,9 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
   <tr align="center">
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Vercel
+      <br>MaterialUI
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -99,9 +99,9 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>MongoDB
+      <br>Sequelize
     </td>
     <td align="center" width="96">
       <a href="#">
