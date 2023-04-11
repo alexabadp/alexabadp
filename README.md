@@ -73,12 +73,7 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
   </tr>
     </td>
   <tr align="center">
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Vercel
-    </td>
+    
     <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
@@ -97,12 +92,7 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
       </a>
       <br>ExpressJS
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
+    
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
@@ -142,8 +132,7 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
 ![alexabadp GitHub stats](https://github-readme-stats.vercel.app/api?username=alexabadp&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabadp&layout=compact&theme=buefy)](https://github.com/alexabadp/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexabadp)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexabadp/)  
+ 
 
 ### 📫 COMO CONTACTARME:
 <hr/>
