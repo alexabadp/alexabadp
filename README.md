@@ -73,7 +73,12 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
   </tr>
     </td>
   <tr align="center">
-    
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Vercel
+    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
@@ -92,7 +97,12 @@ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el m
       </a>
       <br>ExpressJS
     </td>
-    
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
